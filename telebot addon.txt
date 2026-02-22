@@ -2,4 +2,3 @@ generate Meme Programmer.webp
 size: (Fullscreen)
 time: (9 seconds)
 use_effect: (zoomout)
-bla
